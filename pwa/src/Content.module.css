@@ -1,0 +1,17 @@
+.container {
+  position: relative;
+}
+
+.header {
+  z-index: 2;
+}
+
+.pageContent {
+  z-index: 1;
+  min-height: 100vh;
+  margin-block-end: 48px;
+}
+
+.container > .header {
+  padding-block-end: 48px;
+}

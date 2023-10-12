@@ -1,1 +1,0 @@
-{"version":3,"file":"component---src-pages-[id]-index-tsx-ca810d3e08448054ff7e.js","mappings":"8JAEA,UAAeA,EAAU,O","sources":["webpack://product-website-template/./src/pages/[id]/index.tsx"],"sourcesContent":["import DetailPage from \"./detailPage\";\r\n\r\nexport default DetailPage;\r\n"],"names":["DetailPage"],"sourceRoot":""}

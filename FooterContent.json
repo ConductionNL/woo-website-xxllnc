@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Contact",
+        "items": [
+            {
+                "label": "Neem contact op",
+                "value": "www.xxllnc.nl/contact",
+                "link": "https://xxllnc.nl/contact"
+            }
+        ]
+    },
+    {
+        "title": "Algemeen",
+        "items": [
+            {
+                "label": "Website",
+                "value": "www.xxllnc.nl",
+                "link": "https://xxllnc.nl/"
+            },
+            {
+             
+                "value": "Privacy",
+                "link": "https://xxllnc.nl/privacy"
+            },
+            {
+               
+                "value": "Toegankelijkheid",
+                "link": "https://accessibe.com/accessscan?website=https://conductionnl.github.io/${{ github.event.repository.name }}/"
+            },
+            {
+                
+                "value": "Over deze website",
+                "link": "https://xxllnc.nl/"
+            }
+        ]
+    }
+]

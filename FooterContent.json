@@ -1,37 +1,42 @@
 [
-    {
-        "title": "Contact",
-        "items": [
-            {
-                "label": "Neem contact op",
-                "value": "www.xxllnc.nl/contact",
-                "link": "https://xxllnc.nl/contact"
-            }
-        ]
-    },
-    {
-        "title": "Algemeen",
-        "items": [
-            {
-                "label": "Website",
-                "value": "www.xxllnc.nl",
-                "link": "https://xxllnc.nl/"
-            },
-            {
-             
-                "value": "Privacy",
-                "link": "https://xxllnc.nl/privacy"
-            },
-            {
-               
-                "value": "Toegankelijkheid",
-                "link": "https://accessibe.com/accessscan?website=https://conductionnl.github.io/${{ github.event.repository.name }}/"
-            },
-            {
-                
-                "value": "Over deze website",
-                "markdownLink": "https://raw.githubusercontent.com/ConductionNL/woo-website-template/main/docs/Over%20deze%20website.md"
-            }
-        ]
-    }
+  {
+    "title": "Contact",
+    "items": [
+      {
+        "ariaLabel": "Contact",
+        "value": "contact",
+        "link": "https://xxllnc.nl/contact",
+        "icon": { "prefix": "fas", "icon": "earth-europe", "placement": "left" }
+      }
+    ]
+  },
+  {
+    "title": "Algemeen",
+    "items": [
+      {
+        "ariaLabel": "Website",
+        "value": "www.xxllnc.nl",
+        "link": "https://xxllnc.nl/",
+        "icon": { "prefix": "fas", "icon": "globe", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Privacy",
+        "value": "Privacy",
+        "link": "https://xxllnc.nl/privacy",
+        "icon": { "prefix": "fas", "icon": "circle-exclamation", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Toegankelijkheid",
+        "value": "Toegankelijkheid",
+        "link": "https://accessibe.com/accessscan?website=https://conductionnl.github.io/${{ github.event.repository.name }}/",
+        "icon": { "prefix": "fas", "icon": "user-shield", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Over deze website",
+        "value": "Over deze website",
+        "markdownLink": "https://raw.githubusercontent.com/ConductionNL/woo-website-template/main/docs/Over%20deze%20website.md",
+        "icon": { "prefix": "fas", "icon": "circle-info", "placement": "left" }
+      }
+    ]
+  }
 ]

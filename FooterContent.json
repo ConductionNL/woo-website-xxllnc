@@ -28,7 +28,7 @@
       {
         "ariaLabel": "Toegankelijkheid",
         "value": "Toegankelijkheid",
-        "link": "https://accessibe.com/accessscan?website=https://conductionnl.github.io/${{ github.event.repository.name }}/",
+        "markdownLink": "https://github.com/ConductionNL/woo-website-template/blob/main/docs/Toegankelijkheid.md",
         "icon": { "prefix": "fas", "icon": "user-shield", "placement": "left" }
       },
       {

@@ -34,7 +34,7 @@
       {
         "ariaLabel": "Over deze website",
         "value": "Over deze website",
-        "markdownLink": "https://raw.githubusercontent.com/ConductionNL/woo-website-template/main/docs/Over%20deze%20website.md",
+        "markdownLink": "https://github.com/ConductionNL/woo-website-template/blob/main/docs/Over%20deze%20website.md",
         "icon": { "prefix": "fas", "icon": "circle-info", "placement": "left" }
       }
     ]

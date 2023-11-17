@@ -51,7 +51,7 @@ jobs:
                   envkey_GATSBY_FOOTER_LOGO_HREF: ${{ env.FOOTER_LOGO_HREF }}
                   envkey_GATSBY_FOOTER_CONTENT: ${{ env.FOOTER_CONTENT }}
                   envkey_GATSBY_OIDN_NUMBER: ${{ env.OIDN_NUMBER }}
-                  GATSBY_ENV_VARS_SET: ${{ env.ENV_VARS_SET }}
+                  envkey_GATSBY_ENV_VARS_SET: ${{ env.ENV_VARS_SET }}
                   directory: pwa/static
                   file_name: .env.production
                   fail_on_empty: true

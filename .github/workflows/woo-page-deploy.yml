@@ -71,6 +71,9 @@ jobs:
             - name: Install dependencies
               run: cd pwa && npm install
 
+            - name: Install parcel/watcher
+              run: cd pwa && npm install @parcel/watcher
+
             - name: Remove old Gatsby cache
               run: rm -rf pwa/.cache
 

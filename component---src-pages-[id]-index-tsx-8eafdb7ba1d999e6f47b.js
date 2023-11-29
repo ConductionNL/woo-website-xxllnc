@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkproduct_website_template=self.webpackChunkproduct_website_template||[]).push([[944],{1525:function(e,t,u){u.r(t);var a=u(9359);t.default=a.default}}]);
-//# sourceMappingURL=component---src-pages-[id]-index-tsx-8eafdb7ba1d999e6f47b.js.map
